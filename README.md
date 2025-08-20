@@ -10,6 +10,13 @@ The project demonstrates a clean UI, responsive layouts, and semantic HTML struc
 
 ---
 
+## 🌐 Live Demo (GitHub Pages)
+
+Deployed on GitHub Pages:  
+👉 [**EDU Hub Live Site**](https://mahesh-more1.github.io/EDU-Hub/)
+
+---
+
 ## 🌟 Features
 
 - **Responsive UI** for mobile, tablet, and desktop
@@ -69,13 +76,6 @@ EDU-Hub/
      python -m http.server 5500
      # then open http://localhost:5500
      ```
-
----
-
-## 🌐 Live Demo (GitHub Pages)
-
-Deployed on GitHub Pages:  
-👉 [**EDU Hub Live Site**](https://mahesh-more1.github.io/EDU-Hub/)
 
 ---
 
